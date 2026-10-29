@@ -17,7 +17,7 @@ All of these are peer-reviewed, and each is summarized with its citation in
 `docs/receipts-and-sources.md` (the raw abstracts we quote are fetched, not paraphrased):
 
 1. **Fitness Beats Truth (FBT) Theorem** — Prakash, Stephens, Hoffman & Singh (2021),
-   *Acta Biotheoretica*. Natural selection drives truthful perceptions extinct against
+   *[Acta Biotheoretica](https://link.springer.com/journal/404)*. Natural selection drives truthful perceptions extinct against
    perceptions tuned only to fitness. Spacetime, as perceived, is a species-specific
    interface — a headset — not a window onto objective reality.
 2. **Objects of Consciousness** — Hoffman & Prakash (2014). A formal model of "conscious
@@ -60,7 +60,13 @@ Everything except the four papers above. Our assembly is labeled [EXTENSION]; cl
 have probed are [RECEIPT] with the probe named; claims from training/recall are [RECALLED];
 open questions are [NULL]. See `CONTRIBUTING.md` for the discipline.
 
-## How to read the rest of `docs/`
+## Contents (the meal, plated)
+
+- [Start here](docs/00-START-HERE.md) — this page: the question, the sources, the proposal.
+- [Receipts and sources](docs/receipts-and-sources.md) — the five papers, verbatim quotes, real links.
+- [Provenance note](docs/provenance-note.md) — where this work came from, in three paragraphs.
+
+## Older drafts (kept in git history only)
 
 - `receipts-and-sources.md` — the fetched abstracts and citations (start here for sources).
 - `session-log-2026-10-28.md` — **a raw, receipted research-session log** from the day this
